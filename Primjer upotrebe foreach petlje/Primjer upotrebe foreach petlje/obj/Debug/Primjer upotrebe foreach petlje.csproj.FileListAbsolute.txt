@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\Primjer upotrebe foreach petlje\Primjer upotrebe foreach petlje\bin\Debug\Primjer upotrebe foreach petlje.exe.config
+C:\Users\Korisnik\source\repos\Primjer upotrebe foreach petlje\Primjer upotrebe foreach petlje\bin\Debug\Primjer upotrebe foreach petlje.exe
+C:\Users\Korisnik\source\repos\Primjer upotrebe foreach petlje\Primjer upotrebe foreach petlje\bin\Debug\Primjer upotrebe foreach petlje.pdb
+C:\Users\Korisnik\source\repos\Primjer upotrebe foreach petlje\Primjer upotrebe foreach petlje\obj\Debug\Primjer upotrebe foreach petlje.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Primjer upotrebe foreach petlje\Primjer upotrebe foreach petlje\obj\Debug\Primjer upotrebe foreach petlje.exe
+C:\Users\Korisnik\source\repos\Primjer upotrebe foreach petlje\Primjer upotrebe foreach petlje\obj\Debug\Primjer upotrebe foreach petlje.pdb
